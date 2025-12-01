@@ -76,3 +76,4 @@ for linha in botoes:
         b.pack(side="left", expand=True, fill="both")
 
 janela.mainloop()
+
